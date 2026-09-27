@@ -1,0 +1,7 @@
+# Human Shazam uses only the Python standard library.
+# No pip-installable dependencies are required.
+#
+# Modules used: winsound, time, random, sys
+#
+# IMPORTANT: `winsound` is part of the standard library on Windows ONLY.
+# This program will not run as-is on macOS/Linux; see README.md for notes.

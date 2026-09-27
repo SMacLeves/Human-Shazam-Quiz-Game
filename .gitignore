@@ -1,0 +1,7 @@
+# The 100-song audio database is kept locally but not tracked in git
+# (copyrighted commercial audio + ~4GB, unsuitable for a GitHub repo).
+songs/
+*.wav
+__pycache__/
+*.pyc
+.DS_Store
